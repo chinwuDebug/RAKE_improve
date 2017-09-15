@@ -7,3 +7,5 @@ Improvement of RAKE Algorithm （Rapid Automatic keyword extraction）
 修改成为 wordmeanScore， 即取了phrase的平均值。
 
 另外其他具体改进见rake_improve.py。
+
+算法原理介绍及与TextRank对比情况见[我的CSDN博客](http://blog.csdn.net/chinwuforwork/article/details/77993277).
