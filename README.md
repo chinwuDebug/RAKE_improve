@@ -6,4 +6,4 @@ Improvement of RAKE Algorithm （Rapid Automatic keyword extraction）
 
 修改成为 wordmeanScore， 即取了phrase的平均值。
 
-另外其他改进请看代码。
+另外其他具体改进见rake_improve.py。
